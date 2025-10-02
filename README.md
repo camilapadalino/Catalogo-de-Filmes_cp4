@@ -5,7 +5,7 @@
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white )
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white )
 
-> Projeto criado para o checkpoint 5 da matéria de C# Development
+> Projeto criado para o checkpoint 5 da matéria de C# Development.
 
 ## 👩‍🎓 Alunos
 - Camila do Prado Padalino - RM98316
