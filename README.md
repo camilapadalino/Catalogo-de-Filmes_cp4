@@ -10,6 +10,7 @@
 ## 👩‍🎓 Alunos
 - Camila do Prado Padalino - RM98316
 - Gabriel Teixeira Machado - RM551570
+- João Pedro de Souza Vieira - RM99805
 
 ## 📝 Sobre o Projeto
 
